@@ -1,4 +1,4 @@
-# aqua-website
+# purify-website
 
 Public facing website
 
